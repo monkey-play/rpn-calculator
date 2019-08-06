@@ -1,5 +1,5 @@
 
-## RPN-com.lq.calculator
+## rpn-calculator
 
 ### RPN 简介
 
